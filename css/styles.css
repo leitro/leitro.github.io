@@ -205,14 +205,14 @@ section.page h4,
 section.page h4:hover,
 section.page h4:visited {
   text-decoration: none;
-  line-height: 0px;
+  line-height: 20px;
 }
 section.page h5,
 section.page h5:hover,
 section.page h5:visited {
   text-decoration: none;
   color: #1a72a0;
-  line-height: 0px;
+  line-height: 20px;
   font-weight: normal;
 }
 section.page del,
@@ -220,7 +220,7 @@ section.page del:hover,
 section.page del:visited {
   text-decoration: none;
   color: #102163;
-  line-height: 0px;
+  line-height: 20px;
   font-size: smaller;
   font-weight: normal;
 }
