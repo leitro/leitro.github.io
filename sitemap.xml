@@ -3,37 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/me/</loc>
-    <lastmod>2020-04-12T22:42:00+02:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/bio/</loc>
-    <lastmod>2020-04-12T22:42:00+02:00</lastmod>
+    <loc>/author/alicia-fornes/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/news/</loc>
-    <lastmod>2020-04-12T22:48:06+02:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/</loc>
-    <lastmod>2020-04-12T22:47:50+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/reviewer/</loc>
-    <lastmod>2020-04-12T22:51:12+02:00</lastmod>
+    <loc>/author/lei-kang/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-04-12T22:51:12+02:00</lastmod>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcal-rusinol/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mauricio-villegas/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pau-riba/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wacv20/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/gcpr18/</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.ignacio-toledo/</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/lei-kang/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
   </url>
   
   <url>
