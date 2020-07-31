@@ -5,12 +5,28 @@
     <link>/author/marcal-rusinol/</link>
       <atom:link href="/author/marcal-rusinol/index.xml" rel="self" type="application/rss+xml" />
     <description>Marçal Rusiñol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Lei Kang</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Lei Kang</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu22f4b638bff41f7230b16b154df68f6f_24608_512x512_fill_lanczos_center_2.png</url>
       <title>Marçal Rusiñol</title>
       <link>/author/marcal-rusinol/</link>
     </image>
+    
+    <item>
+      <title>Distilling Content from Style for Handwritten Word Recognition</title>
+      <link>/publication/icfhr20/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/icfhr20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANwriting: Content-Conditioned Generation of Styled Handwritten Word Images</title>
+      <link>/publication/eccv20/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/eccv20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unsupervised Writer Adaptation for Synthetic-to-Real Handwritten Word Recognition</title>

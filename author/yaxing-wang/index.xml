@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yaxing Wang | Lei Kang</title>
+    <link>/author/yaxing-wang/</link>
+      <atom:link href="/author/yaxing-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yaxing Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Lei Kang</copyright><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu22f4b638bff41f7230b16b154df68f6f_24608_512x512_fill_lanczos_center_2.png</url>
+      <title>Yaxing Wang</title>
+      <link>/author/yaxing-wang/</link>
+    </image>
+    
+    <item>
+      <title>GANwriting: Content-Conditioned Generation of Styled Handwritten Word Images</title>
+      <link>/publication/eccv20/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/eccv20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
